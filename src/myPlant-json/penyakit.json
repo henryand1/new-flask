@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "nama": "Apel : Kudis",
+        "deskripsi": "Kudis apel adalah penyakit paling umum pada pohon apel dan crabapple di Minnesota dan tidak layak dimakan dengan daun yang terinfeksi memiliki bintik-bintik hijau hingga coklat.",
+        "faktor": "..",
+        "saran": "....."
+    },
+    {
+        "id": "2",
+        "nama": "Bintik",
+        "deskripsi": "Bintik adalah penyakit tanaman yang disebabkan oleh ulat dan dapat merusak daun",
+        "faktor": "....",
+        "saran": "....."
+    }
+]
