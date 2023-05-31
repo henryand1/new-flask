@@ -1,7 +1,7 @@
 # Import necessary modules
-import firebase_admin
+# import firebase_admin
 from flask import Flask, request, jsonify, json
-from firebase_admin import credentials, firestore
+# from firebase_admin import credentials, firestore
 from PIL import Image
 import io
 import requests
